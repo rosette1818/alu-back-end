@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Return TODO list progress for a given employee ID using a REST API."""
 import requests
 import sys
 
